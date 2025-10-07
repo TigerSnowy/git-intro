@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 feature-improvement
 Change from feature branch
 
 Change from main
 main
-=======
+
 Message from feature branch
->>>>>>> 27a7729 (Revert "Change message in main")
+27a7729 (Revert "Change message in main")
